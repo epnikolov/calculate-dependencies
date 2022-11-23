@@ -1,6 +1,6 @@
 Calculate & Find Dependencies of items
 ======================================
-
+[![Build and test](https://github.com/epnikolov/calculate-dependencies/actions/workflows/gradle.yaml/badge.svg)](https://github.com/epnikolov/calculate-dependencies/actions/workflows/gradle.yaml)
 ## Description
 The app takes as input arguments as a set of lines where the first token is the name of an item.
 The remaining tokens are the names of things that this first item depends on. Given the following input,
